@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=0">
 	<meta property="og:image" content="img/logo.png">
- 	<meta property="og:url" content="http://giorgosiakovou.epizy.com/">	
+ 	<meta property="og:url" content="https://konstantinosiakovou.github.io/giorgosiakovou/">	
 	<title><?php echo title; ?></title>
 	<link rel="stylesheet" href="bootstrap-4.1.3-dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="style.css">
@@ -18,7 +18,7 @@
 <div id="home">
 <!--Navigation-->
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark fixed-top">
-	<a class="navbar-brand" href="https://giorgosiakovou.000webhostapp.com/"><img src="img/logo.png"></a>
+	<a class="navbar-brand" href="https://konstantinosiakovou.github.io/giorgosiakovou/"><img src="img/logo.png"></a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
 		<span class="navbar-toggler-icon"></span>
 	</button>
